@@ -1,0 +1,6 @@
+Credentials cache: API:249F7758-D1E6-4F7B-BD30-D1F8E082914E
+        Principal: qkherzi@42NICE.FR
+
+  Issued                Expires             Flags    Principal
+Jan 13 07:11:52 2021  Jan 13 17:11:52 2021  FPRIA  krbtgt/42NICE.FR@42NICE.FR
+Jan 13 07:11:54 2021  Jan 13 17:11:52 2021  FPA    HTTP/student-storage.42nice.fr@42NICE.FR
